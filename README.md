@@ -1,2 +1,1 @@
-# Pre-Placement-Activity-PPA-
-Programs for PPA Batch
+# Pre-Placement-Activity
